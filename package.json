@@ -1,0 +1,19 @@
+{
+  "name": "site-member-kylie",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Kylie's 1999 shrine to Final Fantasy VII, Gundam Wing and the rave scene. Plus Chogi the cat.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^7.4.5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
